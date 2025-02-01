@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phmotad/phmotad/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/phmotad/PauloMota/blob/output/github-snake.svg" alt="Snake animation" />
 
 ###
